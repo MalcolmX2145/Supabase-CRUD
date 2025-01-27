@@ -16,7 +16,7 @@ A simple and interactive **Todo List Application** built with React and Supabase
 ## 🌐 Live Demo
 
 The app is hosted on **Vercel**! 🌍  
-👉 [Check it out here](#) 👈
+👉 [Check it out here](https://supabase-crud-teal.vercel.app/) 👈
 
 ---
 
