@@ -29,9 +29,13 @@ The app is hosted on **Vercel**! 🌍
 
 ---
 
-## 📦 Installation and Setup
+## ✨ Usage
+1. Enter a task name in the input field and click "Add Todo Item" to create a new task.
+2. Use the "Complete Task" or "Undo" button to toggle task status.
+3. Click the "Delete Task" button to remove a task from the list.
+4. Enjoy instant toast notifications for all actions!
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+## 💡 Future Improvements
+1. 🔍 Add a search bar to filter tasks.
+2. 📅 Add due dates and reminders for tasks.
+3. 🌈 Enhance the UI with animations and themes.
